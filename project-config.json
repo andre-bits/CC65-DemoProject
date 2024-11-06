@@ -1,0 +1,13 @@
+{
+    "name": "Untitled (Workspace)",
+    "description": "Project Untitled (Workspace)",
+    "toolkit": "cc65",
+    "sources": [
+        "src/main.c"
+    ],
+    "build": "debug",
+    "definitions": [],
+    "includes": [],
+    "args": [],
+    "compiler": ""
+}
